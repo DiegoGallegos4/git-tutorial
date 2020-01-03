@@ -3,3 +3,5 @@ SECRET_KEY=39203u4nvkdjsv09432jf
 
 ACCESS_KEY=392039
 SECRET_ACCESS_KEY=4i3094jfds
+
+SERVICE_URL=https://api.twitter.com/api/v1/storm
